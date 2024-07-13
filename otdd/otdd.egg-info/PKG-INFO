@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: otdd
+Version: 0.1.0
+Summary: Optimal Transport Dataset Distance
+Author: David Alvarez-Melis & Nicolo Fusi
+License: MIT
+License-File: LICENSE

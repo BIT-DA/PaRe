@@ -1,0 +1,16 @@
+numpy
+scipy
+matplotlib
+tqdm
+pot
+torch
+torchvision
+torchtext
+attrdict
+opentsne
+seaborn
+scikit-learn
+pandas
+geomloss
+munkres
+adjustText
